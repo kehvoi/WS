@@ -26,9 +26,9 @@ h1{
 }
 
 h2{
-font-size: 1.4rem;
+font-size: 2.4rem;
 margin-top: 0px;
-font-weight: 100;
+font-weight: heavy;
 text-underline-position: below;
 font-family: Noto Sans KR;
 color: #DD6E42;
@@ -39,9 +39,12 @@ h3{
     font-weight: 500;
     font-family: Noto Sans KR;
     color:#C1D37F;
+    font-size: 2.4rem;
     }
 p{ 
     color: white;
+    font-size: 1.4rem;
+    font-weight: heavy;
     
 }
 .topcontainer{
@@ -136,7 +139,7 @@ hr{
 .topcontainerz{
     background-color:lightgreen; margin-top: 0px; position: relative; padding-top: 80px;
     padding-bottom: 80px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 70px 0
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 70px 0 rgba(0, 0, 0, 0.10);
 }
 
 
