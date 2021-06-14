@@ -136,3 +136,9 @@ hr{
     background-color: lightgreen; margin-top: 0px; position: relative; padding-top: 80px;
     padding-bottom: 80px;
 }
+
+#grad1 {
+  height: 100px;
+  background-color: darkgreen; /* For browsers that do not support gradients */
+  background-image: linear-gradient(0deg, green, mediumseagreen);
+}
