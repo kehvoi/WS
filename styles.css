@@ -129,7 +129,8 @@ hr{
     margin: 0;
     text-align: center;
     font-family: 'Yusei Magic', 'Noto Sans KR', sans-serif;
-    id="grad1";
+    background-image: linear-gradient(180deg, darkgreen, white);
+    background-color: darkgreen;
 }
 
 .topcontainerz{
@@ -137,8 +138,4 @@ hr{
     padding-bottom: 80px;
 }
 
-#grad1 {
-  height: 100px;
-  background-color: darkgreen; /* For browsers that do not support gradients */
-  background-image: linear-gradient(180deg, darkgreen, white);
-}
+
