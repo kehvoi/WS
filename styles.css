@@ -129,12 +129,12 @@ hr{
     margin: 0;
     text-align: center;
     font-family: 'Yusei Magic', 'Noto Sans KR', sans-serif;
-    background-image: linear-gradient(180deg, darkgreen, blue);
+    background-image: linear-gradient(180deg, darkgreen, lightseagreen);
     background-color: darkgreen;
 }
 
 .topcontainerz{
-    background-color: blue; margin-top: 0px; position: relative; padding-top: 80px;
+    background-color:lightgreen; margin-top: 0px; position: relative; padding-top: 80px;
     padding-bottom: 80px;
 }
 
