@@ -140,5 +140,5 @@ hr{
 #grad1 {
   height: 100px;
   background-color: darkgreen; /* For browsers that do not support gradients */
-  background-image: linear-gradient(0deg, darkgreen, white);
+  background-image: linear-gradient(180deg, darkgreen, white);
 }
