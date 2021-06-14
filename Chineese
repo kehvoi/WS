@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kehvoi Thompson</title>
+	<link rel="stylesheet" href="styles.css">
+	<link rel="icon" href="favicon.ico">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="topcontainer">
+		
+			<h1>Kehvoi Thompson</h1>
+		<h2><u>开发商</u></h2>
+		
+	</div>
+
+	<div class="middlecontainer">
+		<div class="profile">
+		  <img src="ktc.png" alt="" class="pc">
+		  <h2>你好呀</h2>
+		  <p>欢迎来到我的网站。</p>
+		  <p>在这里你会找到你需要的关于我的所有基本信息。</p>
+		</div>
+		<hr>
+		<div class="skills">
+		  <h2>我的技能</h2>
+		  <div class="skill-row">
+			<img class="" src="" alt="">
+			<img src="https://img.icons8.com/cotton/164/000000/code-file.png" class="codep"/>
+			<h3>编程  { } </h3>
+			<p>我是一名全栈开发人员。 几年前，我开始了学习计算机编程的旅程，试图创建一个视频游戏。 我的编码能力并不总是稳定的，但尽管遇到挫折，我仍在继续学习。
+				到目前为止，我可以使用：Html、Css、JavaScript、PHP、Dart、Flutter 和 C#。
+				我制作安卓应用、网站和计算机程序。 我打算继续学习不同的语言，这样我就可以成为更好的网络开发和软件开发人员 </p>
+			
+		  </div>
+		  <div class="skill-row1">
+			<img class="" src="" alt="">
+			<img src="https://img.icons8.com/nolan/512/blender-3d.png" class="blendi"/>
+			<h3>动画  ʕ•ᴥ•ʔ</h3>
+			<p>我已经做了大约 8 年的动画师。
+				我能够为短片、演示文稿和视频游戏创建 2D 和 3D 动画。
+				我能够使用像 Autodesk Maya 这样的行业标准程序，但是我使用 Blender 2.79 完成我的大部分工作，用于建模、绑定、动画、编辑和合成。 目前我正在学习创建逼真的图形和模拟。 </p>
+						
+		  </div>
+		</div>
+		<hr>
+		<div class="contact-me">
+		  <h2>保持联系 </h2>
+		  <h3>需要网站、移动应用程序、计算机程序或动画？ </h3>
+		  <a class="btn" href="mailto:kehvoithompson@gmail.com">联络我</a>
+		</div>
+	  </div>
+	  
+	  
+	  <div class="bottomcontainer">
+		<a class="footer-link" href="https://www.linkedin.com/in/kehvoi-thompson-056715179/">领英</a>
+		<a class="footer-link" href="https://github.com/kehvoi">Github</a>
+		
+		<p>© 2021 Kehvoi Thompson.</p>
+	  </div>
+	
+	<script type="Javascript"></script>
+</body>
+</html>
