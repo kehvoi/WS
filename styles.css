@@ -130,3 +130,9 @@ hr{
     text-align: center;
     font-family: 'Yusei Magic', 'Noto Sans KR', sans-serif;
     background-color: darkgreen;
+}
+
+.topcontainerz{
+    background-color: lightgreen; margin-top: 0px; position: relative; padding-top: 80px;
+    padding-bottom: 80px;
+}
