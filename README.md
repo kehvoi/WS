@@ -1,2 +1,2 @@
 # WS
-My website I created with Html and CSS, might update it soon.
+My website I created, might update it soon.
